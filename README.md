@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**File principale:** `FrancescaCarrera_Python.ipynb`
+**File principale:** `FrancescaCarrera_Python_SGE.ipynb`
 
 **Obiettivo del progetto**  
 Un media brand chiamato "Voci", nato per riequilibrare la narrazione mediatica spesso dominata da prospettive maschili, aveva bisogno di uno strumento strutturato per organizzare e analizzare i contenuti pubblicati (testimonianze, approfondimenti, atti di attivismo).  
